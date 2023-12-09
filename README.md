@@ -11,8 +11,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/meysdays/qr_code_challenge)
-- Live Site URL: [Add live site URL here](https://darling-centaur-13115f.netlify.app/)
+- Solution URL: [repo](https://github.com/meysdays/qr_code_challenge)
+- Live Site URL: [Live site URL here](https://darling-centaur-13115f.netlify.app/)
 
 ## My process
 
